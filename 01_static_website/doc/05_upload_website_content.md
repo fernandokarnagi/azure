@@ -2,24 +2,18 @@
 
 <https://itnext.io/the-only-guide-you-need-for-a-static-website-in-azure-part-2-host-your-static-site-in-azure-9114b7069db2>
 
-First all, lets compile the Gatsby
+# Work
 
-![Text Description automatically
-generated](./images/05/media/image1.png){width="6.5in"
-height="1.7194444444444446in"}
+## First all, lets compile the Gatsby
 
-![A screenshot of a computer Description automatically generated with
-medium confidence](./images/05/media/image2.png){width="6.5in"
-height="1.7916666666666667in"}
+![Text Description automatically generated](./images/05/media/image1.png) 
 
-Now, create SAS ![Graphical user interface, text, application, email
-Description automatically
-generated](./images/05/media/image3.png){width="6.5in"
-height="3.879861111111111in"}
+![A screenshot of a computer Description automatically generated with medium confidence](./images/05/media/image2.png) 
 
-Next, we are now going to upload our static website to the storage
-account. For this we use AzCopy from the POWERSHELL
+### Now, create SAS 
 
-![Text Description automatically
-generated](./images/05/media/image4.png){width="6.5in"
-height="1.49375in"}
+![Graphical user interface, text, application, email Description automatically generated](./images/05/media/image3.png) 
+
+### Next, we are now going to upload our static website to the storage account. For this we use AzCopy from the POWERSHELL
+
+![Text Description automatically generated](./images/05/media/image4.png) 
